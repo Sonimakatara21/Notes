@@ -1,2 +1,3 @@
-# Notes
-Assignment_1
+# visdown-template
+
+Starter template to get started with Visdown
