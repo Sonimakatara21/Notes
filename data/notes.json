@@ -1,0 +1,2810 @@
+[
+  {
+    "year": 1977,
+    "money": 2.72,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.72
+  },
+  {
+    "year": 1977,
+    "money": 0.55,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.001
+  },
+  {
+    "year": 1977,
+    "money": 1.48,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 0.74
+  },
+  {
+    "year": 1977,
+    "money": 9.95,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.199
+  },
+  {
+    "year": 1977,
+    "money": 6.9,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.345
+  },
+  {
+    "year": 1977,
+    "money": 43.02,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 0.43
+  },
+  {
+    "year": 1977,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1977,
+    "money": 18.25,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 1.825
+  },
+  {
+    "year": 1977,
+    "money": 5.72,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 1.144
+  },
+  {
+    "year": 1978,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1978,
+    "money": 19.57,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 1.957
+  },
+  {
+    "year": 1978,
+    "money": 14.4,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.288
+  },
+  {
+    "year": 1978,
+    "money": 5.76,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 1.152
+  },
+  {
+    "year": 1978,
+    "money": 7.79,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.39
+  },
+  {
+    "year": 1978,
+    "money": 2.56,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.56
+  },
+  {
+    "year": 1978,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1978,
+    "money": 53.69,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 0.537
+  },
+  {
+    "year": 1978,
+    "money": 1.74,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 0.87
+  },
+  {
+    "year": 1979,
+    "money": 59.51,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 0.595
+  },
+  {
+    "year": 1979,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1979,
+    "money": 9.61,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.48
+  },
+  {
+    "year": 1979,
+    "money": 2.15,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 1.075
+  },
+  {
+    "year": 1979,
+    "money": 5.88,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 1.176
+  },
+  {
+    "year": 1979,
+    "money": 19.83,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.397
+  },
+  {
+    "year": 1979,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1979,
+    "money": 21.23,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 2.123
+  },
+  {
+    "year": 1979,
+    "money": 2.14,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.14
+  },
+  {
+    "year": 1980,
+    "money": 6.34,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 1.268
+  },
+  {
+    "year": 1980,
+    "money": 74.06,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 0.741
+  },
+  {
+    "year": 1980,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1980,
+    "money": 20.97,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 2.097
+  },
+  {
+    "year": 1980,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1980,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 1.495
+  },
+  {
+    "year": 1980,
+    "money": 2.07,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.07
+  },
+  {
+    "year": 1980,
+    "money": 10.9,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.545
+  },
+  {
+    "year": 1980,
+    "money": 22.06,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.441
+  },
+  {
+    "year": 1981,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1981,
+    "money": 6.92,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 1.384
+  },
+  {
+    "year": 1981,
+    "money": 2.12,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.12
+  },
+  {
+    "year": 1981,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1981,
+    "money": 27.24,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.545
+  },
+  {
+    "year": 1981,
+    "money": 19.91,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 1.991
+  },
+  {
+    "year": 1981,
+    "money": 78.29,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 0.783
+  },
+  {
+    "year": 1981,
+    "money": 3.92,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 1.96
+  },
+  {
+    "year": 1981,
+    "money": 12.14,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.607
+  },
+  {
+    "year": 1982,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1982,
+    "money": 30.17,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.603
+  },
+  {
+    "year": 1982,
+    "money": 97.77,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 0.978
+  },
+  {
+    "year": 1982,
+    "money": 2.05,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.05
+  },
+  {
+    "year": 1982,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1982,
+    "money": 17.98,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 1.798
+  },
+  {
+    "year": 1982,
+    "money": 14.33,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.716
+  },
+  {
+    "year": 1982,
+    "money": 4.31,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.155
+  },
+  {
+    "year": 1982,
+    "money": 8.07,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 1.614
+  },
+  {
+    "year": 1983,
+    "money": 5.6,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 1.12
+  },
+  {
+    "year": 1983,
+    "money": 1.98,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 1.98
+  },
+  {
+    "year": 1983,
+    "money": 4.5,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.25
+  },
+  {
+    "year": 1983,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1983,
+    "money": 14.63,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.732
+  },
+  {
+    "year": 1983,
+    "money": 36.26,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.725
+  },
+  {
+    "year": 1983,
+    "money": 116.9,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 1.169
+  },
+  {
+    "year": 1983,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1983,
+    "money": 17.7,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 1.77
+  },
+  {
+    "year": 1984,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1984,
+    "money": 2.04,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.04
+  },
+  {
+    "year": 1984,
+    "money": 39.2,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.784
+  },
+  {
+    "year": 1984,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1984,
+    "money": 22.17,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 2.217
+  },
+  {
+    "year": 1984,
+    "money": 12.34,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.468
+  },
+  {
+    "year": 1984,
+    "money": 139.04,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 1.39
+  },
+  {
+    "year": 1984,
+    "money": 16.36,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.818
+  },
+  {
+    "year": 1984,
+    "money": 5.8,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.9
+  },
+  {
+    "year": 1985,
+    "money": 25.36,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 2.536
+  },
+  {
+    "year": 1985,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1985,
+    "money": 6.5,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.25
+  },
+  {
+    "year": 1985,
+    "money": 13.03,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.606
+  },
+  {
+    "year": 1985,
+    "money": 2.38,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.38
+  },
+  {
+    "year": 1985,
+    "money": 17.84,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.892
+  },
+  {
+    "year": 1985,
+    "money": 43.1,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 0.862
+  },
+  {
+    "year": 1985,
+    "money": 150.18,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 1.502
+  },
+  {
+    "year": 1985,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1986,
+    "money": 52.47,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 1.049
+  },
+  {
+    "year": 1986,
+    "money": 25.1,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 2.51
+  },
+  {
+    "year": 1986,
+    "money": 18.99,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.949
+  },
+  {
+    "year": 1986,
+    "money": 171.16,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 1.712
+  },
+  {
+    "year": 1986,
+    "money": 12.87,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.574
+  },
+  {
+    "year": 1986,
+    "money": 6.83,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.415
+  },
+  {
+    "year": 1986,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1986,
+    "money": "",
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": ""
+  },
+  {
+    "year": 1986,
+    "money": 3.01,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.01
+  },
+  {
+    "year": 1987,
+    "money": 1.8,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.004
+  },
+  {
+    "year": 1987,
+    "money": 6.53,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.265
+  },
+  {
+    "year": 1987,
+    "money": 28.25,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 2.825
+  },
+  {
+    "year": 1987,
+    "money": 190.77,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 1.908
+  },
+  {
+    "year": 1987,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1987,
+    "money": 72.67,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 1.453
+  },
+  {
+    "year": 1987,
+    "money": 14.29,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.858
+  },
+  {
+    "year": 1987,
+    "money": 23.31,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.166
+  },
+  {
+    "year": 1987,
+    "money": 3.52,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.52
+  },
+  {
+    "year": 1988,
+    "money": 3.6,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.6
+  },
+  {
+    "year": 1988,
+    "money": 14.82,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.964
+  },
+  {
+    "year": 1988,
+    "money": 29.96,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 2.996
+  },
+  {
+    "year": 1988,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1988,
+    "money": 6.81,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.405
+  },
+  {
+    "year": 1988,
+    "money": 212.08,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 2.121
+  },
+  {
+    "year": 1988,
+    "money": 26.13,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.306
+  },
+  {
+    "year": 1988,
+    "money": 2.3,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.005
+  },
+  {
+    "year": 1988,
+    "money": 94.59,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 1.892
+  },
+  {
+    "year": 1989,
+    "money": 17.39,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.478
+  },
+  {
+    "year": 1989,
+    "money": 35.15,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 3.515
+  },
+  {
+    "year": 1989,
+    "money": 31,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.55
+  },
+  {
+    "year": 1989,
+    "money": 12.57,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.025
+  },
+  {
+    "year": 1989,
+    "money": 125.53,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 2.511
+  },
+  {
+    "year": 1989,
+    "money": 237.78,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 2.378
+  },
+  {
+    "year": 1989,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1989,
+    "money": 3.48,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.48
+  },
+  {
+    "year": 1989,
+    "money": 8.04,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.02
+  },
+  {
+    "year": 1990,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1990,
+    "money": 3.35,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.35
+  },
+  {
+    "year": 1990,
+    "money": 29.52,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.476
+  },
+  {
+    "year": 1990,
+    "money": 148.12,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 2.962
+  },
+  {
+    "year": 1990,
+    "money": 37.85,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 3.785
+  },
+  {
+    "year": 1990,
+    "money": 245.7,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 2.457
+  },
+  {
+    "year": 1990,
+    "money": 21.77,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.044
+  },
+  {
+    "year": 1990,
+    "money": 18.1,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.62
+  },
+  {
+    "year": 1990,
+    "money": 8.83,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.415
+  },
+  {
+    "year": 1991,
+    "money": 9.42,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.71
+  },
+  {
+    "year": 1991,
+    "money": 18.54,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.037
+  },
+  {
+    "year": 1991,
+    "money": 27.43,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.372
+  },
+  {
+    "year": 1991,
+    "money": 24,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 4.8
+  },
+  {
+    "year": 1991,
+    "money": 177.19,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 3.544
+  },
+  {
+    "year": 1991,
+    "money": 52.02,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 5.202
+  },
+  {
+    "year": 1991,
+    "money": 3.35,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.35
+  },
+  {
+    "year": 1991,
+    "money": 322.66,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 3.227
+  },
+  {
+    "year": 1991,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1992,
+    "money": 49.1,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.098
+  },
+  {
+    "year": 1992,
+    "money": 225.77,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 4.515
+  },
+  {
+    "year": 1992,
+    "money": 3.35,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.35
+  },
+  {
+    "year": 1992,
+    "money": 42.85,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 4.285
+  },
+  {
+    "year": 1992,
+    "money": 20.22,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 4.044
+  },
+  {
+    "year": 1992,
+    "money": 23.4,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.17
+  },
+  {
+    "year": 1992,
+    "money": 7.2,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.6
+  },
+  {
+    "year": 1992,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1992,
+    "money": 326.63,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 3.266
+  },
+  {
+    "year": 1993,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1993,
+    "money": 3.28,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.28
+  },
+  {
+    "year": 1993,
+    "money": 18.6,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.72
+  },
+  {
+    "year": 1993,
+    "money": 16.31,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.815
+  },
+  {
+    "year": 1993,
+    "money": 377.84,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 3.778
+  },
+  {
+    "year": 1993,
+    "money": 6.24,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.12
+  },
+  {
+    "year": 1993,
+    "money": 53.34,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 5.334
+  },
+  {
+    "year": 1993,
+    "money": 249.91,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 4.998
+  },
+  {
+    "year": 1993,
+    "money": 113.03,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.226
+  },
+  {
+    "year": 1994,
+    "money": 464.57,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 4.646
+  },
+  {
+    "year": 1994,
+    "money": 285.37,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 5.707
+  },
+  {
+    "year": 1994,
+    "money": 6.02,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.01
+  },
+  {
+    "year": 1994,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1994,
+    "money": 11.2,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.56
+  },
+  {
+    "year": 1994,
+    "money": 3.2,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.2
+  },
+  {
+    "year": 1994,
+    "money": 168.82,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.338
+  },
+  {
+    "year": 1994,
+    "money": 69.43,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 6.943
+  },
+  {
+    "year": 1994,
+    "money": 17.65,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.53
+  },
+  {
+    "year": 1995,
+    "money": 5.15,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.575
+  },
+  {
+    "year": 1995,
+    "money": 208.73,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.417
+  },
+  {
+    "year": 1995,
+    "money": 551.05,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 5.51
+  },
+  {
+    "year": 1995,
+    "money": 92.18,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 9.218
+  },
+  {
+    "year": 1995,
+    "money": 3.22,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.22
+  },
+  {
+    "year": 1995,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1995,
+    "money": 316.59,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 6.332
+  },
+  {
+    "year": 1995,
+    "money": 16.51,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.302
+  },
+  {
+    "year": 1995,
+    "money": 7.18,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.359
+  },
+  {
+    "year": 1996,
+    "money": 626,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 6.26
+  },
+  {
+    "year": 1996,
+    "money": 242.7,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.485
+  },
+  {
+    "year": 1996,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1996,
+    "money": 336.23,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 6.725
+  },
+  {
+    "year": 1996,
+    "money": 7.03,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.352
+  },
+  {
+    "year": 1996,
+    "money": 15.54,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.108
+  },
+  {
+    "year": 1996,
+    "money": 3.16,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.16
+  },
+  {
+    "year": 1996,
+    "money": 5.27,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.635
+  },
+  {
+    "year": 1996,
+    "money": 110.63,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 11.063
+  },
+  {
+    "year": 1997,
+    "money": 3.19,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.19
+  },
+  {
+    "year": 1997,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1997,
+    "money": 342.45,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 6.849
+  },
+  {
+    "year": 1997,
+    "money": 5.5,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.75
+  },
+  {
+    "year": 1997,
+    "money": 14.27,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.854
+  },
+  {
+    "year": 1997,
+    "money": 701.59,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 7.016
+  },
+  {
+    "year": 1997,
+    "money": 9.79,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.489
+  },
+  {
+    "year": 1997,
+    "money": 279.75,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.56
+  },
+  {
+    "year": 1997,
+    "money": 124.12,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 12.412
+  },
+  {
+    "year": 1998,
+    "money": 333.16,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 6.663
+  },
+  {
+    "year": 1998,
+    "money": 12.9,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.58
+  },
+  {
+    "year": 1998,
+    "money": 448.27,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 0.897
+  },
+  {
+    "year": 1998,
+    "money": 5.3,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.65
+  },
+  {
+    "year": 1998,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1998,
+    "money": 129.9,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 12.99
+  },
+  {
+    "year": 1998,
+    "money": 8.99,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.45
+  },
+  {
+    "year": 1998,
+    "money": 3.16,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.16
+  },
+  {
+    "year": 1998,
+    "money": 781.97,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 7.82
+  },
+  {
+    "year": 1999,
+    "money": 132.82,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 13.282
+  },
+  {
+    "year": 1999,
+    "money": 11.52,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.304
+  },
+  {
+    "year": 1999,
+    "money": "",
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": ""
+  },
+  {
+    "year": 1999,
+    "money": 3.08,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.08
+  },
+  {
+    "year": 1999,
+    "money": 5.12,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.56
+  },
+  {
+    "year": 1999,
+    "money": 858.31,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 8.583
+  },
+  {
+    "year": 1999,
+    "money": 572.5,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 1.145
+  },
+  {
+    "year": 1999,
+    "money": 10.1,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.505
+  },
+  {
+    "year": 1999,
+    "money": 332.3,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 6.646
+  },
+  {
+    "year": 2000,
+    "money": 328.18,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 6.564
+  },
+  {
+    "year": 2000,
+    "money": 529.47,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 1.059
+  },
+  {
+    "year": 2000,
+    "money": 123.36,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 12.336
+  },
+  {
+    "year": 2000,
+    "money": 10.16,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.032
+  },
+  {
+    "year": 2000,
+    "money": 4.71,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.355
+  },
+  {
+    "year": 2000,
+    "money": 10.12,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.506
+  },
+  {
+    "year": 2000,
+    "money": 1081.41,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 10.814
+  },
+  {
+    "year": 2000,
+    "money": 37.19,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.037
+  },
+  {
+    "year": 2000,
+    "money": 3.07,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.07
+  },
+  {
+    "year": 2001,
+    "money": 15.31,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 0.766
+  },
+  {
+    "year": 2001,
+    "money": 1180.41,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 11.804
+  },
+  {
+    "year": 2001,
+    "money": 71.79,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.072
+  },
+  {
+    "year": 2001,
+    "money": 356.01,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 7.12
+  },
+  {
+    "year": 2001,
+    "money": 3.08,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.08
+  },
+  {
+    "year": 2001,
+    "money": 685.12,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 1.37
+  },
+  {
+    "year": 2001,
+    "money": 12.64,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 2.528
+  },
+  {
+    "year": 2001,
+    "money": 5.38,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.69
+  },
+  {
+    "year": 2001,
+    "money": 119.89,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 11.989
+  },
+  {
+    "year": 2002,
+    "money": 17.39,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.478
+  },
+  {
+    "year": 2002,
+    "money": 1153.86,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 11.539
+  },
+  {
+    "year": 2002,
+    "money": 4.83,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.415
+  },
+  {
+    "year": 2002,
+    "money": 938.13,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 1.876
+  },
+  {
+    "year": 2002,
+    "money": 351.91,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 7.038
+  },
+  {
+    "year": 2002,
+    "money": 159.71,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.16
+  },
+  {
+    "year": 2002,
+    "money": 3.05,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.05
+  },
+  {
+    "year": 2002,
+    "money": 34.25,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.712
+  },
+  {
+    "year": 2002,
+    "money": 90.88,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 9.088
+  },
+  {
+    "year": 2003,
+    "money": 1214.42,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 12.144
+  },
+  {
+    "year": 2003,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2003,
+    "money": 330.27,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 6.605
+  },
+  {
+    "year": 2003,
+    "money": 43.83,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 2.192
+  },
+  {
+    "year": 2003,
+    "money": 77.5,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 7.75
+  },
+  {
+    "year": 2003,
+    "money": 274.73,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.275
+  },
+  {
+    "year": 2003,
+    "money": 4.72,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.36
+  },
+  {
+    "year": 2003,
+    "money": 1229.38,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 2.459
+  },
+  {
+    "year": 2003,
+    "money": 22.76,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 4.552
+  },
+  {
+    "year": 2004,
+    "money": 1527.28,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 3.055
+  },
+  {
+    "year": 2004,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2004,
+    "money": 38.76,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 1.938
+  },
+  {
+    "year": 2004,
+    "money": 4.62,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.31
+  },
+  {
+    "year": 2004,
+    "money": 67.7,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 6.77
+  },
+  {
+    "year": 2004,
+    "money": 299.41,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 5.988
+  },
+  {
+    "year": 2004,
+    "money": 1232.82,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 12.328
+  },
+  {
+    "year": 2004,
+    "money": 20.86,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 4.172
+  },
+  {
+    "year": 2004,
+    "money": 420.82,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.421
+  },
+  {
+    "year": 2005,
+    "money": 40.77,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 2.038
+  },
+  {
+    "year": 2005,
+    "money": 1346.37,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 13.464
+  },
+  {
+    "year": 2005,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2005,
+    "money": 19.8,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.96
+  },
+  {
+    "year": 2005,
+    "money": 62.74,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 6.274
+  },
+  {
+    "year": 2005,
+    "money": 4.51,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.255
+  },
+  {
+    "year": 2005,
+    "money": 278.42,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 5.568
+  },
+  {
+    "year": 2005,
+    "money": 1823.32,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 3.647
+  },
+  {
+    "year": 2005,
+    "money": 643.46,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.643
+  },
+  {
+    "year": 2006,
+    "money": 936.76,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 0.937
+  },
+  {
+    "year": 2006,
+    "money": 3.01,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.01
+  },
+  {
+    "year": 2006,
+    "money": 2254,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 4.508
+  },
+  {
+    "year": 2006,
+    "money": 4.47,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 2.235
+  },
+  {
+    "year": 2006,
+    "money": 1354.44,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 13.544
+  },
+  {
+    "year": 2006,
+    "money": 18.87,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 3.774
+  },
+  {
+    "year": 2006,
+    "money": 279.51,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 5.59
+  },
+  {
+    "year": 2006,
+    "money": 71.55,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 7.155
+  },
+  {
+    "year": 2006,
+    "money": 41.78,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 2.089
+  },
+  {
+    "year": 2007,
+    "money": 1345.75,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 13.458
+  },
+  {
+    "year": 2007,
+    "money": 21.11,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 4.222
+  },
+  {
+    "year": 2007,
+    "money": 2631.08,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 5.262
+  },
+  {
+    "year": 2007,
+    "money": 6.36,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.18
+  },
+  {
+    "year": 2007,
+    "money": 265.08,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 5.302
+  },
+  {
+    "year": 2007,
+    "money": 41.08,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 2.054
+  },
+  {
+    "year": 2007,
+    "money": 93.33,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 9.333
+  },
+  {
+    "year": 2007,
+    "money": 3,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3
+  },
+  {
+    "year": 2007,
+    "money": 1412.19,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 1.412
+  },
+  {
+    "year": 2008,
+    "money": 1370.28,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 13.703
+  },
+  {
+    "year": 2008,
+    "money": 122.22,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 12.222
+  },
+  {
+    "year": 2008,
+    "money": 1917.84,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 1.918
+  },
+  {
+    "year": 2008,
+    "money": 6.65,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.325
+  },
+  {
+    "year": 2008,
+    "money": 244.4,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 4.888
+  },
+  {
+    "year": 2008,
+    "money": 43.99,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 2.2
+  },
+  {
+    "year": 2008,
+    "money": 3,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3
+  },
+  {
+    "year": 2008,
+    "money": 22.71,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 4.542
+  },
+  {
+    "year": 2008,
+    "money": 3083.04,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 6.166
+  },
+  {
+    "year": 2009,
+    "money": 210.57,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 4.211
+  },
+  {
+    "year": 2009,
+    "money": 3644.79,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 7.29
+  },
+  {
+    "year": 2009,
+    "money": 1383.64,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 13.836
+  },
+  {
+    "year": 2009,
+    "money": 22.33,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 4.466
+  },
+  {
+    "year": 2009,
+    "money": 185.36,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 18.536
+  },
+  {
+    "year": 2009,
+    "money": 6.98,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 3.49
+  },
+  {
+    "year": 2009,
+    "money": 2382.52,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 2.383
+  },
+  {
+    "year": 2009,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2009,
+    "money": 46.81,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 2.34
+  },
+  {
+    "year": 2010,
+    "money": 4453.11,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 8.906
+  },
+  {
+    "year": 2010,
+    "money": 159.8,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 3.196
+  },
+  {
+    "year": 2010,
+    "money": 60.4,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 3.02
+  },
+  {
+    "year": 2010,
+    "money": 212.88,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 21.288
+  },
+  {
+    "year": 2010,
+    "money": 1402.43,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 14.024
+  },
+  {
+    "year": 2010,
+    "money": 3027.13,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 3.027
+  },
+  {
+    "year": 2010,
+    "money": 8.51,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.255
+  },
+  {
+    "year": 2010,
+    "money": 34.3,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 6.86
+  },
+  {
+    "year": 2010,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2011,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2011,
+    "money": 36.43,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 7.286
+  },
+  {
+    "year": 2011,
+    "money": 5128.07,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 10.256
+  },
+  {
+    "year": 2011,
+    "money": 174.38,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 3.488
+  },
+  {
+    "year": 2011,
+    "money": 8.51,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.255
+  },
+  {
+    "year": 2011,
+    "money": 3468.81,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 3.469
+  },
+  {
+    "year": 2011,
+    "money": 1411.88,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 14.119
+  },
+  {
+    "year": 2011,
+    "money": 230.02,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 23.002
+  },
+  {
+    "year": 2011,
+    "money": 70.2,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 3.51
+  },
+  {
+    "year": 2012,
+    "money": 76.5,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 3.825
+  },
+  {
+    "year": 2012,
+    "money": 251.68,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 25.168
+  },
+  {
+    "year": 2012,
+    "money": 4299,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 4.299
+  },
+  {
+    "year": 2012,
+    "money": 5359.5,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 10.719
+  },
+  {
+    "year": 2012,
+    "money": 1442.1,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 14.421
+  },
+  {
+    "year": 2012,
+    "money": 8.51,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.255
+  },
+  {
+    "year": 2012,
+    "money": 173.05,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 3.461
+  },
+  {
+    "year": 2012,
+    "money": 36.87,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 7.374
+  },
+  {
+    "year": 2012,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2013,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2013,
+    "money": 5081.37,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 5.081
+  },
+  {
+    "year": 2013,
+    "money": 1476.46,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 14.765
+  },
+  {
+    "year": 2013,
+    "money": 8.51,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.255
+  },
+  {
+    "year": 2013,
+    "money": 37.14,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 7.428
+  },
+  {
+    "year": 2013,
+    "money": 85.69,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 4.284
+  },
+  {
+    "year": 2013,
+    "money": 5702.48,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 11.405
+  },
+  {
+    "year": 2013,
+    "money": 266.48,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 26.648
+  },
+  {
+    "year": 2013,
+    "money": 172.42,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 3.448
+  },
+  {
+    "year": 2014,
+    "money": 2.99,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 2.99
+  },
+  {
+    "year": 2014,
+    "money": 1502.65,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 15.026
+  },
+  {
+    "year": 2014,
+    "money": 8.54,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.27
+  },
+  {
+    "year": 2014,
+    "money": 6563.91,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 13.128
+  },
+  {
+    "year": 2014,
+    "money": 5612.45,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 5.612
+  },
+  {
+    "year": 2014,
+    "money": 303.04,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 30.304
+  },
+  {
+    "year": 2014,
+    "money": 37.02,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 7.404
+  },
+  {
+    "year": 2014,
+    "money": 86.99,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 4.35
+  },
+  {
+    "year": 2014,
+    "money": 174.36,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 3.487
+  },
+  {
+    "year": 2015,
+    "money": 36.8,
+    "type": "Notes",
+    "denom": 5,
+    "value": 5,
+    "number": 7.36
+  },
+  {
+    "year": 2015,
+    "money": 194.5,
+    "type": "Notes",
+    "denom": 50,
+    "value": 50,
+    "number": 3.89
+  },
+  {
+    "year": 2015,
+    "money": 8.53,
+    "type": "Notes",
+    "denom": 2,
+    "value": 2,
+    "number": 4.265
+  },
+  {
+    "year": 2015,
+    "money": 1577.83,
+    "type": "Notes",
+    "denom": 100,
+    "value": 100,
+    "number": 15.778
+  },
+  {
+    "year": 2015,
+    "money": 98.47,
+    "type": "Notes",
+    "denom": 20,
+    "value": 20,
+    "number": 4.924
+  },
+  {
+    "year": 2015,
+    "money": 7853.75,
+    "type": "Notes",
+    "denom": 500,
+    "value": 500,
+    "number": 15.708
+  },
+  {
+    "year": 2015,
+    "money": 3.09,
+    "type": "Notes",
+    "denom": 1,
+    "value": 1,
+    "number": 3.09
+  },
+  {
+    "year": 2015,
+    "money": 320.15,
+    "type": "Notes",
+    "denom": 10,
+    "value": 10,
+    "number": 32.015
+  },
+  {
+    "year": 2015,
+    "money": 6325.68,
+    "type": "Notes",
+    "denom": 1000,
+    "value": 1000,
+    "number": 6.326
+  }
+]

@@ -1,59 +1,154 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Visdown - Markdown for Visualisation</title>
-  <meta name="description" content="Create Simple Visualisation Charts with Markdown">
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Currency</title>
+<!--
+Newline Template
+http://www.templatemo.com/tm-503-newline
+-->
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
 
-  <script src="lib/vega.min.js"></script>
-  <script src="lib/vega-lite.min.js"></script>
-  <script src="lib/vega-embed.min.js"></script>
-  <script src="lib/marked.min.js"></script>
-  <script src="lib/yaml.min.js"></script>
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="css/fontAwesome.css">
+        <link rel="stylesheet" href="css/templatemo-style.css">
 
-  <style>
-    #visdown-output {max-width: 800px; margin: 0 auto;}
-    #visdown-input {display: none;}
-  </style>  
-</head>
-<body>
-<P>ufiduhoeruhfiue
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
-<div id="visdown-input">  
-  
-# Distribution
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+		
+		
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega/3.0.8/vega.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-lite/2.0.4/vega-lite.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vega-embed/3.0.0-rc7/vega-embed.js"></script>
+    </head>
+    <body>
 
-## Dot Plot
+        <div class="overlay"></div>
+        <section class="top-part">
+         
+        </section>
+        
+        <section class="cd-hero">
 
-```vis
-width: 600
-height: 200
-data:
-  url: data/cars.csv
-mark: bar
-encoding: 
-  x: 
-    aggregate: mean
-    field: price
-    type: Q
-  y:
-    field: kmpl
-    type: nominal
-  size:
-    value: 25
-  opacity:
-    value: 0.3
-  color: 
-    field: price
-    type: Q
+          <ul class="cd-hero-slider">
 
-```
+            <li class="selected">
+              <div class="heading">
+                <h1>Money in circulation </h1>
+                <span>Data by Reserve bank of India</span>
+              </div>
+              <div class="cd-full-width first-slide">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="content first-content">
+                       
+					     <div id="vis"></div>
+
+  <script type="text/javascript">
+    var yourVlSpec = {
+      "$schema": "https://vega.github.io/schema/vega-lite/v2.0.json",
+      "description": "A simple bar chart with embedded data.",
+      "data": {"url": "data/notes.csv"},
+      "transform": [{"calculate": "year(datum.Year)", "as": "Year"}],
+      "width":600,
+      "height":300,
+      "layer": [
+         {
+        
+            "selection": {
+                "Yr": {
+                "type": "single",
+                "fields": ["Year"],
+                "bind": {"input": "range", "min": 1977, "max": 2015, "step": 1}
+                }
+             },
+             "mark": "area",     
+              "encoding": {
+                "y": {"field": "denom", "type": "N"},
+                "x": {"field": "money", "type": "Q"},
+                "color": {
+                "condition": {"selection": "Yr", "field": "value", "type": "nominal"},
+                "value": "grey"  
+                 }
+              }
+        },
+        {
+            "transform": [{"filter": {"selection": "Yr"}}],
+            "mark": "area",
+            "encoding": {
+              "x": {"field": "money", "type": "Q"},
+              "y": {"field": "denom", "type": "N"},
+              "color": {"field": "value", "type": "N"},
+              "size": {"value": 100}
+            }
+        }
+     ]
     
-</div>
-<div id="visdown-output"></div>
-<script src="visdown.js"></script>
+    
+    }
+    
+    vegaEmbed("#vis", yourVlSpec);
+  </script>
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+                      </div>
+                    </div>
+                  </div>                  
+                </div>
+              </div>
+            </li>
 
-</body>
+
+        <footer>
+          <p>Sonima Katara || Information design
+                                
+        	</a></p>
+        </footer>
+    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+    </body>
 </html>
